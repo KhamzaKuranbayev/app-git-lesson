@@ -10,7 +10,9 @@ public class DataType {
         // primitive
         //   Integer, Double,  Short, Boolean, Byte, Long, Float, Character
         //    int       double short  boolean  byte  long float  char
-        Integer age = 35;
+        Integer age = 45;
+        Double price = 2500.0;
+        Float f = 25f;
         int age2 = 35;
     }
 }
